@@ -1,1 +1,2 @@
-println("Hello from Binder!")
+b = "Binder!"
+println("Hello from $b")
