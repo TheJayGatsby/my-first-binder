@@ -1,8 +1,11 @@
 # my-first-binder
 
-To test if I can create a jupyter workbook in julia.
+This is my first julia notebook.
 
-Let's wait and see...
+It is a test to run julia notebooks in binder.
+
+I managed to do that follow the info on:
+https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/boost-research-reproducibility-binder/workshop-presentations/zero-to-binder-julia.md
 
 The link to go is:
 https://mybinder.org/v2/gh/TheJayGatsby/my-first-binder/HEAD
